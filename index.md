@@ -13,3 +13,5 @@ dirtree:
 
 [[z:zettels?tag=Computers]]
 
+[[z:zettels?tag=root/Motorcycles]]
+[[z:zettels?tag=root/*&grouped]]
